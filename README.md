@@ -18,8 +18,8 @@
   </div>
   <h3 align="center">Build a Trello‑Style App with Next.js, Supabase, Clerk & dnd‑kit</h3>
   <div align="center">
-    Follow the full video tutorial on  
-    <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank"><b>YouTube</b></a> By PedroTech
+    Follow the full video tutorial By PedroTech  
+    <a href="https://www.youtube.com/watch?v=ugxI1o5SyMs&t=6764s" target="_blank"><b>YouTube</b></a> 
   </div>
   <br />
 </div>
